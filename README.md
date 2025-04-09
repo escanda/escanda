@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming languages, new algorithms and infrastructure as code.
 - 🌱 I’m currently learning about distributed systems architecture.
 - 💞️ I’m looking to collaborate on stuff, feel free to reach me out on OSS :)
-- 📫 How to reach me: gcifuentes (at) escandasys.eu
+- 📫 How to reach me: gc (at) escanda.link
 
 <!---
 escanda/escanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
